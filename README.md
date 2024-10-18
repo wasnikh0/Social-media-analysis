@@ -10,6 +10,9 @@ The project's goal is to extract data (from a chosen number of pages) from The M
 (e.g., details about a movie's genre, cast, and user rating) can be facilitated.
 
 Pre-requisites :
+
 Tools: Jupyter Notebook or Google Colab or Microsoft Visual Studio IDE
+
 Languages: Python, HTML
+
 Libraries: requests, beautifulSoup, pandas
